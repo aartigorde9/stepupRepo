@@ -1,0 +1,2 @@
+a='aarti'
+print(a)
